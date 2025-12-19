@@ -52,3 +52,4 @@ VALUES(100, 'Goyal')
 UPDATE Students
 SET email = 'atul.gupta@example.com' ,FirstName='Bobby'
 WHERE LastName='Gupta'
+
