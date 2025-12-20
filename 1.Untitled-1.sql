@@ -3,7 +3,7 @@
 CREATE DATABASE MSSQL
 
 
---Created Table and enter few column 
+--Created Table and enter few column  
 USE MSSQL
 CREATE TABLE Students
 (
@@ -52,4 +52,5 @@ VALUES(100, 'Goyal')
 UPDATE Students
 SET email = 'atul.gupta@example.com' ,FirstName='Bobby'
 WHERE LastName='Gupta'
+
 
